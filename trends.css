@@ -1,0 +1,321 @@
+div#container
+{
+   width: 970px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #1E1E1E;
+   background-image: url('images/trends_bkgrnd.png');
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+a
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+input:focus, textarea:focus, select:focus
+{
+   outline: none;
+}
+#wb_Shape1
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape1
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_CssMenu1
+{
+   border: 0px solid #C0C0C0;
+   background-color: transparent;
+   margin: 0;
+   text-align: left;
+}
+#wb_CssMenu1 ul
+{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   position: relative;
+   display: inline-block;
+}
+#wb_CssMenu1 li
+{
+   float: left;
+   margin: 0;
+   padding: 0px 4px 0px 0px;
+   width: 80px;
+}
+#wb_CssMenu1 a
+{
+   display: block;
+   float: left;
+   color: #333333;
+   border: 1px solid #CCCCCC;
+   background-color: #FFFFFF;
+   background-image: none;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   font-style: normal;
+   text-decoration: none;
+   width: 68px;
+   height: 26px;
+   padding: 0px 5px 0px 5px;
+   vertical-align: middle;
+   line-height: 26px;
+   text-align: center;
+}
+#wb_CssMenu1 li:hover a, #wb_CssMenu1 a:hover
+{
+   color: #FFFFFF;
+   border: 1px solid #2E6DA4;
+   background-color: #337AB7;
+   background-image: none;
+}
+#wb_CssMenu1 li.firstmain
+{
+   padding-left: 0px;
+}
+#wb_CssMenu1 li.lastmain
+{
+   padding-right: 0px;
+}
+#wb_CssMenu1 br
+{
+   clear: both;
+   font-size: 1px;
+   height: 0;
+   line-height: 0;
+}
+#SiteSearch1
+{
+   border: 1px solid #CCCCCC;
+   border-radius: 4px;
+   background-color: #FFFFFF;
+   background-image: none;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 13px;
+   line-height: 16px;
+   padding: 4px 4px 4px 4px;
+   margin: 0;
+   text-align: left;
+}
+#Button1
+{
+   border: 1px solid #2E6DA4;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 13px;
+   padding: 1px 6px 1px 6px;
+   text-align: center;
+   -webkit-appearance: none;
+   margin: 0;
+}
+#wb_Shape2
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape2
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Shape3
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape3
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Image1
+{
+   vertical-align: top;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Line1
+{
+   border-color: #A0A0A0;
+   border-style: solid;
+   border-bottom-width: 304px;
+   border-top: 0px;
+   border-left: 0px;
+   border-right: 0px;
+   height: 0 !important;
+   line-height: 0px !important;
+   margin: 0;
+   padding: 0;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#Button2
+{
+   box-sizing: border-box;
+   line-height: 16px;
+   text-decoration: none;
+   vertical-align: top;
+   border: 1px solid #2E6DA4;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 13px;
+   padding: 1px 6px 1px 6px;
+   text-align: center;
+   -webkit-appearance: none;
+   margin: 0;
+}
+#wb_Shape4
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape4
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Image2
+{
+   vertical-align: top;
+}
+#Image2
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Shape5
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape5
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Shape6
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape6
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Shape7
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape7
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Shape8
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape8
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Shape9
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape9
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Shape10
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape10
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Shape11
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape11
+{
+   border-width: 0;
+   vertical-align: top;
+}
